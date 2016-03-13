@@ -15,7 +15,7 @@ Please run the following command:
 #!bash
 npm install
 ```
-It will create a folder *node_modules* with JS dependencies
+It will create a folder *node_modules* containing the JS dependencies.
 
 ### Running  ###
 Please run the following command to start the watcher and launch the application:
