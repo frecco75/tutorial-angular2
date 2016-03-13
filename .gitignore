@@ -1,0 +1,12 @@
+/.settings
+/.DS_Store
+/.project
+/.classpath
+/target
+/logs
+/node_modules/
+/npm-debug.log
+/target/
+/build/
+/.idea/
+/typings/
