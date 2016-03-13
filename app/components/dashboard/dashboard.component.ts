@@ -1,5 +1,5 @@
 import {Component, OnInit} from 'angular2/core'
-import {Hero} from '../../data/hero'
+import {Hero} from '../../models/hero'
 import {HeroService} from '../../services/hero.service'
 import {Router} from 'angular2/router'
 
