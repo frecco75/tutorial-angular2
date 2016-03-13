@@ -1,6 +1,6 @@
 # Tutorial Angular 2 : Tour of Heroes #
 
-Source code : [https://bitbucket.org/frecco75/tutorial-angular2/src](https://bitbucket.org/frecco75/tutorial-angular2)
+Source code : [https://bitbucket.org/frecco75/tutorial-angular2/src](https://bitbucket.org/frecco75/tutorial-angular2/src)
 
 ## Technologies ##
 * [Angular 2](https://angular.io/)
