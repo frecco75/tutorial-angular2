@@ -1,12 +1,14 @@
 import {Component, OnInit} from 'angular2/core'
-import {Hero} from './hero'
-import {HeroService} from './hero.service'
+import {Hero} from '../../data/hero'
+import {HeroService} from '../../services/hero.service'
 import {Router} from 'angular2/router'
+
+let baseUrl = 'app/components/dashboard/'
 
 @Component({
     selector: 'my-dashboard',
-    templateUrl: 'app/dashboard.component.html',
-    styleUrls: ['app/dashboard.component.css']
+    templateUrl: baseUrl + 'dashboard.component.html',
+    styleUrls: [baseUrl + 'dashboard.component.css']
 })
 
 
