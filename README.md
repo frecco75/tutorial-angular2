@@ -2,6 +2,8 @@
 
 Source code : [https://bitbucket.org/frecco75/tutorial-angular2/src](https://bitbucket.org/frecco75/tutorial-angular2/src)
 
+![angular2-app.png](https://bitbucket.org/repo/6pgnRR/images/3387592773-angular2-app.png)
+
 ## Technologies ##
 * [Angular 2](https://angular.io/)
 * [TypeScript](http://www.typescriptlang.org/)
