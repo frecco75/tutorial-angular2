@@ -12,7 +12,7 @@ let baseUrl = 'app/components/hero-detail/'
 })
 
 
-export class HeroDetailComponent {
+export class HeroDetailComponent implements OnInit {
 
     // Constructors and ng-methods
     //--------------------------------------
